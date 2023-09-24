@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @007Jamie
+- 👀 I’m interested in data analysis and making data driven business decisions
+- 🌱 I’m currently learning SQL, Phyton, R and tableau
+- 💞️ I’m looking to collaborate on data analysis projects.
